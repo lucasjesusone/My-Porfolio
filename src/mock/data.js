@@ -39,8 +39,8 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'Para mais informações, contate-me através do e-mail no botão abaixo.',
-  btn: 'Envie-me um E-mail',
+  cta: 'If you want to get more informations about myself, contact-me throught the informations below, like E-mail, Whatsapp, LinkedIn or GitHub.. ',
+  btn: 'Send me an E-mail',
   email: 'lucasjesusone@gmail.com',
 };
 
