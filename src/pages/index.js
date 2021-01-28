@@ -13,7 +13,7 @@ export default () => {
       <Helmet>
         <meta charSet="utf-8" />
         <title>{title || 'PortFolio'}</title>
-        <html lang={lang || 'en'} />
+        <html lang={lang || 'pt-br'} />
         <meta name="description" content={description || 'PortFolio'} />
       </Helmet>
       <App />
