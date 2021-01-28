@@ -2,16 +2,16 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  title: 'Lucas | Desenvolvedor', // e.g: 'Name | Developer'
+  lang: 'en', // e.g: en, es, fr, jp
+  description: 'Welcome', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
   title: '',
   name: 'Lucas Gabriel',
-  subtitle: "Front-End Developer",
+  subtitle: "I'm a Front-End Developer",
   cta: '',
 };
 
@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -39,9 +39,9 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
-  btn: '',
-  email: '',
+  cta: 'Para mais informações, contate-me através do e-mail no botão abaixo.',
+  btn: 'Envie-me um E-mail',
+  email: 'lucasjesusone@gmail.com',
 };
 
 // FOOTER DATA
@@ -56,6 +56,11 @@ export const footerData = {
       id: nanoid(),
       name: 'github',
       url: 'https://github.com/LucasJesusone',
+    },
+    {
+      id: nanoid(),
+      name: 'whatsapp',
+      url: 'https://bit.ly/39oUzpn',
     },
   ],
 };
