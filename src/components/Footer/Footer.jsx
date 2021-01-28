@@ -38,7 +38,7 @@ const Footer = () => {
         </div>
         <hr />
         <p className="footer__text">
-          © {new Date().getFullYear()} - Developed by{' '}
+          © {new Date().getFullYear()} - Developed by {' '}
           <a href="https://github.com/LucasJesusone" target="_blank" rel="noopener noreferrer">
             Lucas Gabriel de Jesus
           </a>

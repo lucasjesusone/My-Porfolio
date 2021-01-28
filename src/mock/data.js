@@ -11,13 +11,13 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Lucas Gabriel',
-  subtitle: "I'm a Front-End Developer",
+  subtitle: "Front-End Developer",
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'photo.png',
+  img: 'photo.jpg',
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
@@ -33,15 +33,15 @@ export const projectsData = [
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/LucasJesusone', // if no repo, the button will not show up
+    repo: '', // if no repo, the button will not show up
   },
 ];
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'Me envie um e-mail no botão abaixo.',
-  btn: 'Clique aqui',
-  email: 'lucasjesusone@gmail.com',
+  cta: '',
+  btn: '',
+  email: '',
 };
 
 // FOOTER DATA
