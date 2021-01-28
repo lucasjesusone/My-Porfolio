@@ -39,3 +39,6 @@ ProjectImg.propTypes = {
 };
 
 export default ProjectImg;
+
+
+// Project Images informations

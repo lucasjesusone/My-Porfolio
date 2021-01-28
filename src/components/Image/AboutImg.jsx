@@ -39,3 +39,6 @@ AboutImg.propTypes = {
 };
 
 export default AboutImg;
+
+
+// Images informations
