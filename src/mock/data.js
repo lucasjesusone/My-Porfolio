@@ -18,9 +18,12 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'photo.jpg',
-  paragraphOne: "My name's Lucas Gabriel de Jesus and I am a student of analysis and system development.",
-  paragraphTwo: 'Actually I am improving my knowledges with the Javascript language with front end and back end with NodeJS, Besides, I am using some frameworks like ReactJS, React Native',
-  paragraphThree: 'I can speak Portuguese as a native speaker and English, btw, I am learning German language too.',
+  paragraphOne:
+    "My name's Lucas Gabriel de Jesus and I am a student of analysis and system development.",
+  paragraphTwo:
+    'Actually I am improving my knowledges with the Javascript language with front end and back end with NodeJS, Besides, I am using some frameworks like ReactJS, React Native',
+  paragraphThree:
+    'I can speak Portuguese as a native speaker and English, btw, I am also learning German language too.',
   resume: '', // if no resume, the button will not show up
 };
 
@@ -30,7 +33,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'dino.png',
     title: 'Dino Game',
-    info: "This game was built only with HTML / CSS and Javascript, It was made by bootcamp in the Digital Innovatio One. It works like a Dino Game when we're without network connection.",
+    info:
+      "This game was built only with HTML / CSS and Javascript, It was made by bootcamp in the Digital Innovatio One. It works like a Dino Game when we're without network connection.",
     info2: 'You can check the repo below.',
     url: '',
     repo: 'https://github.com/LucasJesusone/Replica-Dino-Game', // if no repo, the button will not show up
@@ -48,7 +52,8 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'If you want to get more informations about myself, contact-me throught the informations below, by E-mail, Whatsapp, LinkedIn or GitHub.. ',
+  cta:
+    'If you want to get more informations about myself, contact-me throught the informations below, by E-mail, Whatsapp, LinkedIn or GitHub.. ',
   btn: 'Send me an E-mail',
   email: 'lucasjesusone@gmail.com',
 };
