@@ -44,7 +44,7 @@ export const projectsData = [
     img: 'page.png',
     title: 'Landing Page',
     info:
-      'This Landing Page is being built for a personal project with Javascript - ReactJS and CSS. Still in development',
+      'This Web Landing Page is being built for a personal project with Javascript - ReactJS and CSS. Still in development',
     info2: 'You can check all details in the repo below.',
     url: '',
     repo: 'https://github.com/LucasJesusone/landing-page', // if no repo, the button will not show up
