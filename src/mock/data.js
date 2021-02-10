@@ -41,7 +41,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'page.png',
+    img: 'landing.png',
     title: 'Landing Page',
     info:
       'This Web Landing Page is being built for a personal project with Javascript - ReactJS and CSS. Still in development',
